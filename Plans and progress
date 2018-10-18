@@ -90,7 +90,14 @@ put resources into convincing them.
 In order to reward users with points, the action must be validated. We plan on doing that by installing sensors on the device as well as
 giving each user their own unique barcode. The user will throw their trash in the bin, the bin will scale how much the trash.Then, the
 user scans their barcode installed on Trashocated bins. Rewards will be given to the user based on the weight of the the trash they have 
-thrown in the bin.
+thrown in the bin. In cases where users try to throw none-recycable garbage in the bins to get more points, it is easy to track them as
+the barcode is unique and will identify the users
+Another change that we have made is instead of installing new bins, we will just install sensors on the alreaady existing ones. Hence,
+the term Trashocated bins will now refer to normal bins but updated with special sensors ans scanners that make them compatible with the
+Trashocated application. The reason for this descision was to avoid creating more mental trash in order to produce the bins as well as
+decreasing the cost. It is much cheaper to install a sensor and a scanner than it is to replace all bins one by one. Moreover,
+the number of bins the users can throw their trash into will increase greatly since installing the devices takes less time than it would
+take to replace each of the bins one by one, making more bins accessable to users much quicker. 
 There were some more problems faced other than the ones mentioned above. The main issue is the health risks associated with it.
 Trash could be toxic or impure and if they are not handled properly, it could cause serious health problems. An example of that
 is the steel used in buildings in Taiwan which have caused gamma poisoning for the past 12 years (Futureofworking.com, 2018). 
